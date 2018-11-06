@@ -1,0 +1,21 @@
+﻿  Building 'MyDriver1' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping Debug\MyDriver1.inf [Version] section with DriverVer=11/05/2018,20.19.2.801
+  Source.c
+  MyDriver1.vcxproj -> C:\Users\sangram_kr.TREND\source\repos\MyDriver1\Debug\MyDriver1.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\sangram_kr.TREND\source\repos\MyDriver1\Debug\MyDriver1.sys
+  
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\sangram_kr.TREND\source\repos\MyDriver1\Debug\MyDriver1\mydriver1.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\sangram_kr.TREND\source\repos\MyDriver1\Debug\MyDriver1\mydriver1.cat
+  
